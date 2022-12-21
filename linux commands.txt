@@ -1,0 +1,54 @@
+   1  ls
+    2  pwd
+    3  /
+    4  cd /
+    5  ls
+    6  ls -ltr
+    7  cd/root
+    8  cd /root
+    9  cd..
+   10  cd
+   11  cd.
+   12  cd ..
+   13  /boot
+   14  cd /
+   15  /boot
+   16  cd /boot
+   17  ls -ltr
+   18  nano microcode.cpio
+   19  cd ..
+   20  cd /bin
+   21  cd ..
+   22  whoami
+   23  ls
+   24  top
+   25  clear
+   26  touch demo
+   27  ls
+   28  ls -l
+   29  touch demo1
+   30  touch demo2
+   31  cp demo1 dev
+   32  cp demo2 dev1
+   33  ls
+   34  ls -l
+   35  ls -lrt
+   36  history
+   37  clear
+   38  pwd
+   39  whoami
+   40  touch test
+   41  find -name test
+   42  locate test
+   43  updatedb
+   44  apt install locate
+   45  apt install mlocate
+   46  updatedb
+   47  locate test
+   48  touch suthi
+   49  find -name suthi
+   50  locate suthi
+   51  updatedb
+   52  locate suthi
+   53  top
+   54  history
